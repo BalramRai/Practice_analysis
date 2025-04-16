@@ -19,7 +19,7 @@
 /*.Rcheck/
 
 # RStudio files
-Practice_analysis.Rproj
+.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
@@ -37,7 +37,7 @@ vignettes/*.pdf
 *.knit.md
 
 # R Environment Variables
-renv.lock
+.Renviron
 
 # pkgdown site
 docs/
